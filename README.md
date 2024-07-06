@@ -27,7 +27,7 @@ MinimalAccount - 0x812443ADEe0BC974fA9fB8782f6ee83Bb0a53F5F
 
 <br/>
 <p align="center">
-<img src="Cyfrin/minimal-account-abstraction/blob/main/img/ethereum/account-abstraction-again.png" width="500" alt="aa">
+<img src="https://github.com/Cyfrin/minimal-account-abstraction/blob/main/img/ethereum/account-abstraction-again.png" width="500" alt="aa">
 </p>
 <br/>
 
